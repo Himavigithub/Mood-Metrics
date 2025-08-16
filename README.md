@@ -2,16 +2,16 @@
 
  MoodMetrics – Sentiment Analysis Web App
 
-MoodMetrics is a Sentiment Analysis Application** that classifies user text into Positive, Negative, or Neutral sentiments** using Natural Language Processing (NLP) techniques.
+MoodMetrics is a Sentiment Analysis Application that classifies user text into Positive, Negative, or Neutral sentiments using Natural Language Processing (NLP) techniques.
 It combines Flask (backend API), a creative frontend, and an ML model for an end-to-end solution.
 
 ---
 
  Features
 
-Sentiment Classification**: Detects Positive, Negative, Neutral from text input
-Interactive Frontend**: Beautiful UI built with HTML, CSS, and JS
-Flask REST API**: Backend to handle predictions
+Sentiment Classification: Detects Positive, Negative, Neutral from text input
+Interactive Frontend: Beautiful UI built with HTML, CSS, and JS
+Flask REST API: Backend to handle predictions
 Machine Learning Model: Trained on sentiment dataset using NLP
 Seamless Integration: Frontend ↔ Backend communication via API
 Deployment Ready
@@ -79,7 +79,7 @@ http://127.0.0.1:5000
 
 * Add support for multilingual sentiment analysis 
 * Improve accuracy with deep learning models (LSTM / BERT) 
-* Deploy on Heroku / Render / AWS for public access ☁
+* Deploy on Heroku / Render / AWS for public access 
 
 ---
 
@@ -91,11 +91,12 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
  Contact
 
-👩‍💻 Developed by **Himavi H.M**
+👩‍💻 Developed by Himavi H.M
 📩 Reach me at: himavihm222@gmail.com 
 🔗 LinkedIn: www.linkedin.com/in/himavi-h-m
 
 ---
+
 
 
 
